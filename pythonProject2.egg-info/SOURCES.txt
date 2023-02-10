@@ -1,0 +1,7 @@
+setup.py
+pytestpack/__init__.py
+pytestpack/functions.py
+pythonProject2.egg-info/PKG-INFO
+pythonProject2.egg-info/SOURCES.txt
+pythonProject2.egg-info/dependency_links.txt
+pythonProject2.egg-info/top_level.txt
